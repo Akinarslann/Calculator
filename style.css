@@ -39,7 +39,7 @@ body{
     font-size: 2.5rem;
     height: 55px;
     border: none;
-    background-color: #252525;
+    background-color: #337cac;
     color: #fff;
     text-align: right;
     padding:0 20px;
@@ -56,7 +56,7 @@ button{
 }
 
 button:hover{
-    background-color: #eaeaea;
+    background-color: #cccccc;
 }
 
 .operator{
@@ -69,7 +69,7 @@ button:hover{
     color: #fff;
 }
 .clear:hover{
-    background-color: #f17377;
+    background-color: #c2585b;
 }
 
 .equal-sign{
@@ -81,7 +81,7 @@ button:hover{
 }
 
 .equal-sign:hover{
-    background-color: #4e0ed4;
+    background-color: #1b6bc7;
 }
 
 .calculator-keys{
